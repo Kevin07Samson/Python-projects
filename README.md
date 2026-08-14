@@ -1,4 +1,4 @@
-# Python Projects
+Python Projects
 
 My coding journey as a Mechanical Engineering student learning Python and full-stack development.
 
