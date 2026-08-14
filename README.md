@@ -6,7 +6,7 @@ My coding journey as a Mechanical Engineering student learning Python and full-s
 
 | Day | Project | Description |
 |-----|---------|-------------|
-| 1 | Pong Game | Classic arcade game built with Python Turtle |
+| 22 | Pong Game | Classic arcade game built with Python Turtle |
 
 ## Tech Stack
 - Python 3
