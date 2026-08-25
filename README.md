@@ -1,26 +1,21 @@
 # 🐍 Python Projects
 
-A collection of projects built while developing my programming,
-problem-solving, and software development skills.
+A collection of projects built while developing my programming, problem-solving, and software development skills.
 
 ## 👨‍💻 About Me
 
-I am a **Mechanical Engineering student** developing my skills in
-**software development** alongside my engineering studies.
+I am a **Mechanical Engineering student** developing my software development skills alongside my engineering studies.
 
-My transition into software began with learning Python and building
-projects to strengthen my programming fundamentals and problem-solving
-skills.
+My transition into software began with learning Python and building projects to strengthen my programming fundamentals and problem-solving abilities.
 
-I am gradually expanding from Python into **SQL, databases, backend
-development, full-stack development, and AI**.
+I am gradually expanding my skills into **SQL, databases, backend development, full-stack development, and AI**.
 
-## 🚀 Projects
+## 💻 What You'll Find Here
 
-| Project | Learning Day | Description | Key Concepts |
-|---|---:|---|---|
-| 🏓 **Pong Game** | Day 22 | Classic two-player Pong game | OOP, Game Logic, Collision Detection, Keyboard Events |
-| 🐢 **Turtle Crossing** | Day 23 | Road-crossing game with moving cars and increasing difficulty | OOP, Inheritance, Game Loop, Collision Detection |
+- Python projects
+- LeetCode solutions
+- Practice programs
+- Learning exercises
 
 ## 🧠 What I'm Practicing
 
@@ -36,9 +31,7 @@ development, full-stack development, and AI**.
 
 ## 🎯 Goal
 
-To transition into software development by building strong technical
-fundamentals and applying them through practical, increasingly
-real-world projects.
+To transition into software development by building strong technical fundamentals and applying them through practical, increasingly real-world projects.
 
 ---
 
