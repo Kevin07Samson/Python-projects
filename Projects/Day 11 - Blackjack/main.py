@@ -65,7 +65,7 @@ def play_game():
     print(f"Computer's final hand:{computer_cards}, final score:{computer_score}")
     print(compare(user_score,computer_score))
 
-while input("Do you want to play a game of Blackjack? Type 'y' or 'n': ") == 'y':
+while input("Do you want to play a game of Day 11 - Blackjack? Type 'y' or 'n': ") == 'y':
     print("\n *100")
     play_game()
 
